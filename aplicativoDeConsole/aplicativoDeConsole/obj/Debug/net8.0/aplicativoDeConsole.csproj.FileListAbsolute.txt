@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\bin\Debug\net8.0\aplicativoDeConsole.exe
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\bin\Debug\net8.0\aplicativoDeConsole.deps.json
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\bin\Debug\net8.0\aplicativoDeConsole.runtimeconfig.json
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\bin\Debug\net8.0\aplicativoDeConsole.dll
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\bin\Debug\net8.0\aplicativoDeConsole.pdb
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\obj\Debug\net8.0\aplicativoDeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\obj\Debug\net8.0\aplicativoDeConsole.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\obj\Debug\net8.0\aplicativoDeConsole.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\obj\Debug\net8.0\aplicativoDeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\obj\Debug\net8.0\aplicativoDeConsole.dll
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\obj\Debug\net8.0\refint\aplicativoDeConsole.dll
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\obj\Debug\net8.0\aplicativoDeConsole.pdb
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\obj\Debug\net8.0\aplicativoDeConsole.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\aplicativoDeConsole\aplicativoDeConsole\obj\Debug\net8.0\ref\aplicativoDeConsole.dll
